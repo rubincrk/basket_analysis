@@ -1,4 +1,4 @@
-# basket_analysis
+# Basket Analysis
 
 A short video <10 seconds is provided as input. Using openCV and Deep Learning models we are able to detect and track the ball, and the players belonging to the different teams. Player team assignment is done using Fashion-CLIP. <br> The output video looks like this: <p align="center">
   <img src="output.png" alt="Demo" width="400"/>
